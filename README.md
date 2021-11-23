@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Papadakis Antonios
 - 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python, js, css, java
+- 🌱 I’m currently learning ... Python, Hmtl, css, js
 - 💞️ I’m looking to collaborate on ... Python
 - 📫 How to reach me ... papadakis.andone@gmail.com
 
