@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Papadakis Antonios
-- 👀 I’m interested in ... Python, Web development
+- 👀 I’m interested in ... Python, Web Development
 - 🌱 I’m currently learning ... React, js, mongoDB
-- 💞️ I’m looking to collaborate on ... Software - Web Development
+- 💞️ I’m looking to collaborate on ... Web Development - Programming
 - 📫 How to reach me ... papadakis.andone@gmail.com
 
 <!---
